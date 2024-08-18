@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Krisztian!
+
+I am currently a sophomore at Duke University studying computer science and statistics, with a focus on data science.
+
+If you have any questions, feel free to reach out!
 
 <!--
 **KMeszaros25/KMeszaros25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
